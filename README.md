@@ -2,10 +2,10 @@
     <img width="300px" src="https://i.imgur.com/thB3TEi.png">
     <br><br>
     <p align="center">
-      <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-links-do-projeto">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-links-do-projeto">Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#memo-license">Licença</a>
+      <a href="#-license">Licença</a>
   </p>
 
 </h3>
@@ -62,7 +62,7 @@ As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** n
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## :memo: License
+## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
