@@ -8,50 +8,42 @@
     justify-content: center;
     align-items: center;
     transition: 400ms;
-  }
-  
-  #modal.hide {
+}
+#modal.hide {
     display: none;
-  }
-  
-  #modal .content {
+}
+#modal .content {
     color: white;
     width: 420px;
-  }
-  
-  #modal .header {
+}
+#modal .header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 48px;
-  }
-  
-  #modal .header a {
+    margin-bottom: 48px 
+}
+#modal .header a {
     background-image: url("../assets/x.svg");
     width: 20px;
     height: 20px;
     display: flex;
     font-size: 0.01px;
-  }
-  
-  #modal .header h1 {
+}
+#modal .header h1 {
     color: white;
     font-size: 36px;
     line-height: 42px;
-  }
-  
-  #modal form label {
+}
+#modal form label {
     font-size: 14px;
     line-height: 16px;
     display: block;
     margin-bottom: 8px;
-  }
-  
-  #modal form .field {
+}
+#modal form .field {
     display: flex;
-  }
-  
-  #modal form input {
+}
+#modal form input {
     flex: 1;
     background-color: #f0f0f5;
     border-radius: 8px 0 0 8px;
@@ -59,16 +51,24 @@
     padding: 16px 24px;
     font-size: 16px;
     color: #6c6c80;
-  }
-  
-  #modal form button {
+}
+#modal form button {
     width: 72px;
     height: 72px;
     background-color: var(--primary-color);
     border: 0;
     border-radius: 0 8px 8px 0;
-  }
-  
-  #modal form button:hover {
+}
+#modal form button:hover {
     background-color: #2fb85e;
-  }
+}
+
+#modal.point .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#modal.point h1 {
+    color: white;
+    margin-top: 32px;
+}

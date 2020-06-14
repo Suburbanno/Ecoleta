@@ -1,6 +1,13 @@
 <h3 align="center">
     <img width="300px" src="https://i.imgur.com/thB3TEi.png">
     <br><br>
+    <p align="center">
+      <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-links-do-projeto">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#memo-license">Licença</a>
+  </p>
+
 </h3>
 <p align="center">
   <a href="https://rocketseat.com.br">
@@ -20,6 +27,15 @@ Aplicação web construída na trilha <strong>Starter</strong> da <strong>Next L
 
 <img src="https://i.imgur.com/sqxLEbx.jpg">
 
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
+
 ## 🔗 Links do projeto
 
 ### Notion
@@ -37,7 +53,16 @@ Aplicação web construída na trilha <strong>Starter</strong> da <strong>Next L
 
 As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week**.
 
-## 📝 License
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+## :memo: License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
